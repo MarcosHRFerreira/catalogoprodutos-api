@@ -2,7 +2,7 @@ package br.com.fiap.tc.catalogoprodutos_api.catalogoprodutos_api.domain.usecase;
 
 import br.com.fiap.tc.catalogoprodutos_api.catalogoprodutos_api.domain.entity.Produto;
 import br.com.fiap.tc.catalogoprodutos_api.catalogoprodutos_api.domain.gateway.ListarProdutoInterface;
-import br.com.fiap.tc.catalogoprodutos_api.catalogoprodutos_api.domain.output.ProdutoDeletadoResponse;
+
 
 import java.util.List;
 
